@@ -1,13 +1,13 @@
 .apresenta{
     width: 90vw;
     position: relative;
-    margin: 0 auto;
+    margin: -40px auto;
     background-color: aliceblue;
     height: 400px;
     border-radius: 5px;
 }
 .btn_apresent{
-    background-color: aqua;
+    background-color: blueviolet;
     width: 200px;
     height: 50px;
     border: 1px solid #000;
@@ -15,6 +15,6 @@
     position: absolute;
     bottom: 5px;
     right: 5px;
-    font-size:1vw;
+    font-size:1em;
     font-weight: bolder;
 }

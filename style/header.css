@@ -11,3 +11,12 @@ header{
     width: 100%;
     height: 10vh;
 }
+
+.inicio{
+    width: 100%;
+    height: 30vh;
+    background-repeat: no-repeat;
+    background-image: url(../img/fundo.jpg);
+    background-size: cover;
+    background-position: center;
+}
